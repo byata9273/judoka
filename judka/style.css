@@ -1,7 +1,0 @@
-@font-face{
-    font-family: 'myFont';
-    src: url("Bsite/font/Yekan.ttf") format("truetypefont");
-}
-.header{
-    font-family:"myFont";
-}
